@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1586173253 source:c:\users\dell\desktop\programmes c\jeupendu\jeupendu\mesfonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dico.h"
+	"mesFonctions.h"
+
+1586172896 source:c:\users\dell\desktop\programmes c\jeupendu\jeupendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1586173312 c:\users\dell\desktop\programmes c\jeupendu\jeupendu\mesfonctions.h
+
+1586172787 c:\users\dell\desktop\programmes c\jeupendu\jeupendu\dico.h
+
+1586173239 source:c:\users\dell\desktop\programmes c\jeupendu\jeupendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+	"mesFonctions.h"
+
+1586173239 source:h:\programmes c\jeupendu\jeupendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+	"mesFonctions.h"
+
+1586172787 h:\programmes c\jeupendu\jeupendu\dico.h
+
+1586173312 h:\programmes c\jeupendu\jeupendu\mesfonctions.h
+
+1586172896 source:h:\programmes c\jeupendu\jeupendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1586173253 source:h:\programmes c\jeupendu\jeupendu\mesfonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dico.h"
+	"mesFonctions.h"
+
